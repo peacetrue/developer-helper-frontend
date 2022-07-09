@@ -1,5 +1,6 @@
-= Antora 模板项目
+= 开发者助手前端
 peace <xiayouxue@hotmail.com>
-v1.0, 2019-10-16: SNAPSHOT
+v1.0, 2022-07-10: SNAPSHOT
+:app_name: developer-helper-frontend
 
-详情参考 https://peacetrue.cn/summarize/index.html[安宁的博客^]。
+实现开发者助手前端界面。

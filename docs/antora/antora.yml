@@ -1,10 +1,10 @@
-name: peacetrue-template-antora
-title: Antora 模板项目
+name: developer-helper-frontend
+title: 开发者助手前端
 version: master
 asciidoc:
   attributes:
     numbered: '@'
-    source-options: '%snowrap@'
+    app_name: developer-helper-frontend
 start_page: ROOT:index.adoc
 nav:
   - modules/ROOT/nav.adoc
